@@ -1,0 +1,120 @@
+.simage1 {
+    position: absolute;
+    top: 240px;
+    left: 500px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage2 {
+    position: absolute;
+    top: 600px;
+    left: 50px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage3 {
+    position: absolute;
+    top: 970px;
+    left: 500px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage4 {
+    position: absolute;
+    top: 1300px;
+    left: 50px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage5 {
+    position: absolute;
+    top: 1575px;
+    left: 500px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage6 {
+    position: absolute;
+    top: 1900px;
+    left: 600px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage7 {
+    position: absolute;
+    top: 2200px;
+    left: 600px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage8 {
+    position: absolute;
+    top: 2450px;
+    left: 500px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simag9 {
+    position: absolute;
+    top: 2750px;
+    left: 600px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage10 {
+    position: absolute;
+    top: 3050px;
+    left: 50px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage11 {
+    position: absolute;
+    top: 3350px;
+    left: 500px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage12 {
+    position: absolute;
+    top: 3650px;
+    left: 50px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage13 {
+    position: absolute;
+    top: 4000px;
+    left: 500px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage14 {
+    position: absolute;
+    top: 4300px;
+    left: 50px;
+    color: indianred;
+    font-size: 30px;
+    
+}
+.simage15 {
+    position: absolute;
+    top: 4600px;
+    left: 500px;
+    color: indianred;
+    font-size: 30px;
+    
+}
